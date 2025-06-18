@@ -3,6 +3,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+     background-attachment: fixed;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana;
     color: #e0dcc1;
     text-align: center;
